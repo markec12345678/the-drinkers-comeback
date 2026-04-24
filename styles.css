@@ -1081,6 +1081,10 @@ h3 {
         align-items: center !important;
         justify-content: center !important;
         text-align: center !important;
+        height: 70vh;
+        background-size: cover;
+        background-position: center center;
+        background-attachment: scroll;
     }
     
     .hero-title {
